@@ -1,0 +1,5 @@
+c:\users\jensendp\documents\visual studio 2013\Projects\FeedReaderIOS\FeedReaderIOS\bin\iPhoneSimulator\Debug\FeedReaderIOS.exe
+c:\users\jensendp\documents\visual studio 2013\Projects\FeedReaderIOS\FeedReaderIOS\bin\iPhoneSimulator\Debug\FeedReaderIOS.pdb
+c:\users\jensendp\documents\visual studio 2013\Projects\FeedReaderIOS\FeedReaderIOS\obj\iPhoneSimulator\Debug\FeedReaderIOS.exe
+c:\users\jensendp\documents\visual studio 2013\Projects\FeedReaderIOS\FeedReaderIOS\obj\iPhoneSimulator\Debug\FeedReaderIOS.pdb
+c:\users\jensendp\documents\visual studio 2013\Projects\FeedReaderIOS\FeedReaderIOS\obj\iPhoneSimulator\Debug\FeedReaderIOS.csprojResolveAssemblyReference.cache
