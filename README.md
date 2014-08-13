@@ -1,7 +1,7 @@
 ### Tuts+ Course: Building iOS Apps In C# With Xamarin
 #### Instructor: Derek Jensen
 
-Have you ever wanted to push your development career to new heights as a C# developer?  Of course, who hasn't?  For many people that means diving into the world of mobile development. Up until a few years ago that typically meant creating Windows Phone applications. Not to say that it is a bad platform, but it doesn't yet have the same market share as iOS and Android. So that meant we had to learn a slew of new languages and IDEs and wound up being a very daunting task that not everyone was ready for. Until now. With the advent of Xamarin, we can now write mobile applications that target multiple platforms in a single language using tools that we are already comfortable with. If you are anything like me, you are already excited. Want to hear more?  Let's get to it.
+Xamarin is changing the way we write mobile applications. If you're a C# developer looking to get into the world of mobile, you can easily get started without having to learn new languages and IDEs. Xamarin allows you to write mobile applications that target multiple platforms in a single language using tools you're already comfortable with. In a previous course on Tuts+ we looked at Building Android Apps in C# With Xamarin. In this course you'll learn all you need to know to get started building iOS Apps. Let's do it!
 
 Source files for the Tuts+ course: [Building iOS Apps in C# With Xamarin](https://courses.tutsplus.com/courses/)
 
